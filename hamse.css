@@ -1,20 +1,13 @@
 div {
-    color: aqua;
-    background-color: blueviolet;
-    text-size-adjust: 35px;
-    flex-direction: column;
-    color: yellow;
-    margin: 40px;
-    border: solid green;
+    background-color: aqua;
+    border: solid red;
+    padding: 40px;
+    text-size-adjust: 40px;
+    color: bisque;
 }
 .one {
+margin: 40px;
+text-size-adjust: 40px;
 background-color: bisque;
-display: flex;
-justify-content: center;
-height: 200px;
-width: 200px;
-color: red;
-padding: 40px;
-border: dashed blue;
 
 }
