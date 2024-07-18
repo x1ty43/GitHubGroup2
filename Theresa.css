@@ -5,6 +5,35 @@ h1 {
 }
 
 body {
-    background-color: rgb(164, 250, 250);
+    background-color: rgba(242, 246, 237, 0.792);
     border: solid black 10px;
+}
+
+.picone {
+    text-align: center;
+}
+
+.one {
+    text-align: center;
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.two {
+    text-align: center;
+    font-size: 25px;
+}
+
+.three {
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.four {
+    font-size: 18px;
+    font-style: italic;
 }
