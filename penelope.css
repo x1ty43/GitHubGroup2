@@ -1,7 +1,11 @@
 .header {
     text-align: center;
-    background-color: aqua;
+    border-style: dotted dotted solid dotted;
     height: 10%;
 }
 
+body {
+    background-color: rgb(211, 182, 195);
+    border-style: dotted dashed solid double;
+}
 
