@@ -1,0 +1,71 @@
+.one {
+    border: solid limegreen;
+    margin-left: 37%;
+    height: 500px;
+    width: 500px;
+    
+}
+
+.two {
+    border: solid limegreen;
+    margin-left: 
+    37% ;
+    height: 500px;
+    width: 500px;
+    
+    
+}
+
+.three {
+    
+}
+
+body {
+    background-color: black;
+    
+    
+    
+}
+
+p {
+    color: yellowgreen;
+    text-align: center;
+}
+
+ul {
+    color: yellowgreen;
+    margin-left: 30%;
+
+}
+
+h1 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+h2 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+h5 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+
+.picone {
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+}
+
+.pictwo {
+    height: 200px;
+    width: 200px;
+    margin-left: 30%;
+}
+
+
+
+
