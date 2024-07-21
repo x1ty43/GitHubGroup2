@@ -1,14 +1,39 @@
 div {
-    background-color: aqua;
+    background-color: rgb(26, 233, 233);
     border: solid red;
     padding: 40px;
     text-size-adjust: 40px;
-    color: bisque;
+    color: rgb(19, 18, 17);
+    margin: 40px;
+    padding: 30px;
 }
 .one {
 margin: 40px;
 text-size-adjust: 40px;
 background-color: rgb(176, 105, 18);
-text-emphasis-color: black;
+text-emphasis-color: rgb(155, 26, 26);
 
+}
+.three {
+    text-align: center;
+    border: solid yellow;
+    background-color: rgb(51, 51, 120);
+
+    ;
+}.four {
+    background-color: antiquewhite;
+    text-align: center;
+    color: black;
+}
+.two {
+    text-emphasis-color: red;
+    color: rgb(6, 6, 84);
+    text-justify: auto;
+    background-color: rgb(195, 110, 110);
+}
+.twopoint {
+    background-color: rgb(37, 79, 79);
+    text-align: center;
+    color: rgb(239, 16, 16);
+    border: solid blue;
 }
