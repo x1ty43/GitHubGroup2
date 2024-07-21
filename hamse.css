@@ -13,7 +13,9 @@ margin: 40px;
 text-size-adjust: 40px;
 background-color: rgb(176, 105, 18);
 text-emphasis-color: rgb(155, 26, 26);
-text-align: center;
+text-align: left;
+font-style: inherit;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 }
 .three {
