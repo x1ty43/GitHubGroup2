@@ -8,6 +8,7 @@ div {
 .one {
 margin: 40px;
 text-size-adjust: 40px;
-background-color: bisque;
+background-color: rgb(176, 105, 18);
+text-emphasis-color: black;
 
 }
