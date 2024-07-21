@@ -12,6 +12,7 @@ margin: 40px;
 text-size-adjust: 40px;
 background-color: rgb(176, 105, 18);
 text-emphasis-color: rgb(155, 26, 26);
+text-align: center;
 
 }
 .three {
@@ -26,7 +27,7 @@ text-emphasis-color: rgb(155, 26, 26);
     color: black;
 }
 .two {
-    text-emphasis-color: red;
+    text-emphasis-color: rgb(36, 2, 2);
     color: rgb(6, 6, 84);
     text-justify: auto;
     background-color: rgb(195, 110, 110);
@@ -36,4 +37,12 @@ text-emphasis-color: rgb(155, 26, 26);
     text-align: center;
     color: rgb(239, 16, 16);
     border: solid blue;
+}
+.four {
+    background-color: rgb(94, 94, 94);
+}
+.six {
+    color: yellow;
+    text-align: center;
+    text-wrap: wrap;
 }
